@@ -1,0 +1,15 @@
+@font-face {
+    font-family: JetBrains Mono;
+    src:  url(/fonts/JetBrainsMono-Medium.ttf);
+    font-display: swap;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'JetBrains Mono';
+}
+
+a {
+    color: aqua;
+}
